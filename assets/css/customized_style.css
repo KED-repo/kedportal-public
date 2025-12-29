@@ -1,0 +1,159 @@
+.presentations-iframe {
+  box-shadow: 0 4px 20px var(--bs-gray-700);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  margin-top: 25px;
+}
+
+
+.help-table .text-danger {
+  font-weight: bold;
+}
+
+.help-table .quote {
+    position: relative;
+}
+
+.help-table .quote::before {
+    content: '„'; /* Opening German quotation mark */
+    position: absolute;
+    left: -0.6em; /* Adjust as necessary for spacing */
+}
+
+.help-table .quote::after {
+    content: '“'; /* Closing German quotation mark */
+    position: absolute;
+    right: -0.6em; /* Adjust as necessary for spacing */
+}
+
+.help-table table {
+    border-collapse: collapse; /* Ensures that borders collapse into a single border */
+    width: 100%; /* Makes the table take the full width */
+    margin-bottom: 150px;
+}
+
+.help-table th, .help-table td {
+    border-bottom: none; /* Adds a solid black border */
+    padding: 8px; /* Adds padding for better spacing */
+    text-align: left; /* Aligns text to the left */
+}
+
+
+.worksheet {
+    width: 90%;                     /* Set the width of the worksheet */
+    margin: 20px auto;             /* Center the worksheet on the page */
+    padding: 20px;                 /* Add padding inside the worksheet */
+    border: 1px solid var(--bs-border-color);        /* Light gray border */
+    border-radius: 8px;            /* Rounded corners */
+    background-color: var(--bs-tertiary-bg);     /* Light background color */
+    box-shadow: 0 4px 20px var(--bs-gray-700); /* Subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Clean font style */
+    line-height: 1.6;              /* Improve readability */
+    font-size: 0.85em;
+}
+
+.worksheet h1, .worksheet h2, .worksheet h3 {
+    margin-top: 0;                 /* Remove top margin for headings */
+}
+
+.worksheet p {
+    margin-bottom: 15px;           /* Space between paragraphs */
+}
+
+.worksheet .question {
+    margin: 10px 0;                /* Space between questions */
+    padding: 10px;                 /* Padding for questions */
+    border: 1px dashed var(--bs-body-color);       /* Dashed border for questions */
+    border-radius: 4px;            /* Rounded corners for questions */
+}
+
+.kwics {
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 80%;
+}
+
+
+ubr {
+  border-bottom: 1.5px solid var(--bs-red);
+}
+
+ubb {
+  border-bottom: 1.5px solid var(--bs-blue);
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+hlb {
+    background-color: var(--bs-focus-ring-color); 
+    padding: 1px; 
+    border-radius: 2px; 
+}
+
+
+.nice-img {
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+
+.underline100 {
+  display: inline-block;
+  border-bottom: 1.5px var(--bs-body-color) solid;
+  width: 100%;
+  max-width: 600px;
+  padding: 2px 0;
+  box-sizing: border-box;
+}
+
+.navbar-logo {
+  max-height: 50px;
+}
+
+.navbar-title {
+  display: none;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both; 
+}
+
+.toc-grid .card {
+  border-radius: 15px 50px 30px 5px;
+  border: var(--bs-info-border-subtle) 1px solid !important;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  background: var(--bs-info-bg-subtle);
+  box-shadow: 0 2px 10px var(--bs-gray-700);
+  width: 100%;
+}
+
+
+.toc-grid .card-body {
+  border-radius: 0px 0px 0px 0px;
+  font-size: .9em;
+  height: 205px;
+  overflow-y: scroll;
+}
+
+@media (max-width: 768px) {
+ .toc-grid .card-body {
+   height: 175px;
+ } 
+}
+
+.toc-grid .card h5 a {
+  display: inline;
+}
+
+.anchorjs-link {
+  display: none !important;
+}

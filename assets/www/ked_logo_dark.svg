@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="296.84332mm"
+   height="117.83921mm"
+   viewBox="0 0 296.84332 117.83921"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="ked_logo_dark.svg"
+   inkscape:export-filename="ked_logo_dark.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.60697364"
+     inkscape:cx="521.43945"
+     inkscape:cy="343.5075"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="687.36255"
+       y="59.70322"
+       width="428.32251"
+       height="311.38092"
+       id="rect8278" />
+    <rect
+       x="90.800125"
+       y="86.687767"
+       width="486.00494"
+       height="247.94824"
+       id="rect6706" />
+    <linearGradient
+       id="linearGradient799"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop797" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.0953545,-0.09705704)">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#212529;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect241"
+       width="162.66425"
+       height="95.775581"
+       x="11.255549"
+       y="11.128868" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,3.4562273,7.9945321)"
+       id="text6704"
+       style="font-size:192px;font-family:'Linux Biolinum O';-inkscape-font-specification:'Linux Biolinum O';text-align:center;white-space:pre;shape-inside:url(#rect6706);display:inline;fill:#212529;fill-opacity:1;fill-rule:nonzero;stroke:#343a40;stroke-width:5.66929;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="145.25885"
+         y="261.38354"
+         id="tspan13285"><tspan
+           style="font-weight:bold;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:none"
+           id="tspan13283">KED</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.9194027,2.4024192)"
+       id="text8276"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect8278);display:inline;fill:#212529;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.66929;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="-88.106552"
+       y="0"><tspan
+         x="687.36328"
+         y="137.34577"
+         id="tspan13289"><tspan
+           style="text-align:start"
+           id="tspan13287">Korpus
+</tspan></tspan><tspan
+         x="687.36328"
+         y="244.0124"
+         id="tspan13293"><tspan
+           style="text-align:start"
+           id="tspan13291">einfaches
+</tspan></tspan><tspan
+         x="687.36328"
+         y="350.67903"
+         id="tspan13297"><tspan
+           style="text-align:start"
+           id="tspan13295">Deutsch</tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.41285;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8390"
+       width="296.84332"
+       height="117.8392"
+       x="0.095354505"
+       y="0.097057045" />
+  </g>
+</svg>
